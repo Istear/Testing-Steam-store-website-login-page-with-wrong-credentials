@@ -1,0 +1,18 @@
+{
+  "name": "task2.0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha 'C:/Users/admin/Desktop/A1QA/a.istear/Task 2.0/spec/test2.js' --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "chromedriver": "^109.0.0",
+    "geckodriver": "^3.2.0",
+    "mocha": "^10.2.0",
+    "selenium-webdriver": "^4.8.0"
+  }
+}
